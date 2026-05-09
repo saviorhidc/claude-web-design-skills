@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+*.log
+*.tmp
+.env
+.env.local
+Thumbs.db
+
+# Screenshot scratch directory used by screenshot-workflow skill
+temporary screenshots/

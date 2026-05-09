@@ -1,0 +1,9 @@
+{
+  "name": "screenshot-workflow",
+  "version": "1.0.0",
+  "description": "Puppeteer screenshot helper for Claude Code design workflow",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}

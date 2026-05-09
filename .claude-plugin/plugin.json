@@ -1,0 +1,10 @@
+{
+  "name": "claude-web-design-skills",
+  "version": "1.0.0",
+  "description": "A curated skill pack for Claude Code that upgrades frontend code quality: design system setup, security hardening, visual iteration via screenshots, SPADE prompting, actionable Next.js/Tailwind/Framer Motion techniques, and Vercel deployment.",
+  "author": "saviorhidc",
+  "license": "MIT",
+  "homepage": "https://github.com/saviorhidc/claude-web-design-skills",
+  "repository": "https://github.com/saviorhidc/claude-web-design-skills",
+  "keywords": ["claude", "skills", "frontend", "security", "nextjs", "tailwind", "framer-motion", "vercel"]
+}
